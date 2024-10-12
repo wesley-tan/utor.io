@@ -18,6 +18,7 @@
 		"dotenv": "^16.4.5",
 		"express": "^4.19.2",
 		"mongoose": "^8.5.1",
+		"react-router-dom": "^6.27.0",
 		"zustand": "^5.0.0-rc.2"
 	},
 	"devDependencies": {
