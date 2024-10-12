@@ -1,3 +1,3 @@
 # utor.io
 
-[Vercel App](https://utor-io.vercel.app/))
+[Vercel App](https://utor-io.vercel.app/)
